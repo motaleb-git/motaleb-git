@@ -7,8 +7,7 @@
 
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Motaleb%20Hossain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20WordPress%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
