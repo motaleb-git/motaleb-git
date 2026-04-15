@@ -146,21 +146,25 @@ Languages   : English | Bengali
 </details>
 
 <details>
-<summary><b>🏢 Subra Systems LTD — WordPress & Laravel Developer</b> &nbsp;|&nbsp; Feb 2019 – Jan 2021</summary>
+<summary><b>🏢 Ifinger Studio </b> &nbsp;|&nbsp; Feb 2019 – Jan 2021</summary>
 
-- WordPress **theme & plugin development** for client projects
-- **PSD to WordPress** theme conversion and pixel-perfect implementation
-- **Laravel web application** development
-- Front-end **HTML/CSS template design** and client support
+- Custom WordPress Theme Development for  **Themeforest**
+- Custom WordPress Plugin Development for **wordpress.org**
+- **PSD or Figma** to WordPress Theme Development
+- **Elementor & WP Bakery** Custom Addons Development
+- **Gutenberg** custom block development
 
 </details>
 
 <details>
-<summary><b>🏢 Themepoints — Front-End & WordPress Developer</b> &nbsp;|&nbsp; Oct 2016 – Dec 2018</summary>
+<summary><b>🏢 Subra Systems LTD </b> &nbsp;|&nbsp; Oct 2016 – Dec 2018</summary>
 
-- WordPress **theme & plugin development** for WordPress.org and ThemeForest
+- WordPress **Theme & plugin development**
 - **PSD to WordPress** theme conversion
 - Custom **Elementor & WP Bakery addon** development
+- **Laravel Web Application**
+- Front-End HTML, CSS, Template Design 
+- Client Support and Bug Fixing
 - Front-end template design and UI development
 
 </details>
