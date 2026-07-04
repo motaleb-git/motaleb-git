@@ -207,11 +207,6 @@ Languages   : English | Bengali
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=motaleb-git&show_icons=true&theme=dark&bg_color=0f2027&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=203a43&hide_border=false&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaleb-git&layout=compact&theme=dark&bg_color=0f2027&title_color=00d4ff&text_color=ffffff&border_color=203a43&hide_border=false&langs_count=8" height="170" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=motaleb-git&theme=dark&background=0f2027&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&border=203a43" />
 
 <br/>
@@ -220,15 +215,6 @@ Languages   : English | Bengali
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=motaleb-git&theme=darkhub&no-frame=false&no-bg=false&margin-w=10&row=1" />
-</div>
-
----
 
 ## 🤝 What I Offer
 
