@@ -58,11 +58,7 @@ I enjoy building clean, maintainable, and scalable software while creating fast,
 </p>
 
 **CMS & E-commerce**
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
-</p>
+<p> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" /> <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" /> <img src="https://img.shields.io/badge/Divi-A4CE39?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/WPBakery-F8A723?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Custom_Plugin_Development-2D2D2D?style=flat-square&logoColor=white" /> </p>
 
 **Tools**
 <p>
