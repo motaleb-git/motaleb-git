@@ -21,7 +21,7 @@ I build scalable web applications, enterprise WordPress solutions, modern React/
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Full-Stack Developer** with **9+ years of professional experience** building scalable web applications and digital products. My expertise spans **React**, **Next.js**, **Node.js**, **Laravel**, **TypeScript**, **PHP**, and **WordPress**, with hands-on experience delivering enterprise applications, SaaS platforms, ERP systems, e-commerce solutions, REST APIs, and premium WordPress products.
+I'm a **Senior Full-Stack Developer** with **9 years of professional experience** building scalable web applications and digital products. My expertise spans **React**, **Next.js**, **Node.js**, **Laravel**, **TypeScript**, **PHP**, and **WordPress**, with hands-on experience delivering enterprise applications, SaaS platforms, ERP systems, e-commerce solutions, REST APIs, and premium WordPress products.
 
 I enjoy building clean, maintainable, and scalable software while creating fast, accessible, and user-focused experiences.
 
