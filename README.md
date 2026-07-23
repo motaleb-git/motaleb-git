@@ -138,19 +138,6 @@ I enjoy building clean, maintainable, and scalable software while creating fast,
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=motaleb-git&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaleb-git&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=motaleb-git&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
