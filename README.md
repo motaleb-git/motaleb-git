@@ -30,11 +30,11 @@ I build scalable web applications, enterprise WordPress solutions, modern React/
 </p>
 
 <p align="center">
-🌐 <strong>Portfolio:</strong> <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a><br>
-💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a><br>
-🐙 <strong>GitHub:</strong> <a href="https://github.com/motaleb-git">github.com/motaleb-git</a><br>
-🧩 <strong>WordPress.org:</strong> <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a><br>
-🎨 <strong>ThemeForest:</strong> <a href="https://themeforest.net/user/thememoons">themeforest.net/user/thememoons</a><br>
+🌐 <strong>Portfolio:</strong> <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a>
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a>
+🐙 <strong>GitHub:</strong> <a href="https://github.com/motaleb-git">github.com/motaleb-git</a>
+🧩 <strong>WordPress.org:</strong> <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a>
+🎨 <strong>ThemeForest:</strong> <a href="https://themeforest.net/user/thememoons">themeforest.net/user/thememoons</a>
 ✉️ <strong>Email:</strong> <a href="mailto:career.motaleb@gmail.com">career.motaleb@gmail.com</a>
 </p>
 
@@ -187,11 +187,11 @@ I enjoy building clean, maintainable, and scalable software while creating fast,
 </p>
 
 <p align="center">
-🌐 <strong>Portfolio:</strong> <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a><br>
-💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a><br>
-🐙 <strong>GitHub:</strong> <a href="https://github.com/motaleb-git">github.com/motaleb-git</a><br>
-🧩 <strong>WordPress.org:</strong> <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a><br>
-🎨 <strong>ThemeForest:</strong> <a href="https://themeforest.net/user/thememoons">themeforest.net/user/thememoons</a><br>
+🌐 <strong>Portfolio:</strong> <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a>
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a>
+🐙 <strong>GitHub:</strong> <a href="https://github.com/motaleb-git">github.com/motaleb-git</a>
+🧩 <strong>WordPress.org:</strong> <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a>
+🎨 <strong>ThemeForest:</strong> <a href="https://themeforest.net/user/thememoons">themeforest.net/user/thememoons</a>
 ✉️ <strong>Email:</strong> <a href="mailto:career.motaleb@gmail.com">career.motaleb@gmail.com</a>
 </p>
 
