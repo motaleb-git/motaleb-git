@@ -121,7 +121,7 @@ I enjoy building clean, maintainable, and scalable software while creating fast,
 
 ---
 
-### 🔌 WordPress Plugins
+### 🔌 WordPress Theme and Plugins 
 
 - Published WordPress.org Plugin Author
 - Premium commercial plugins
