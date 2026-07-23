@@ -91,7 +91,7 @@ I enjoy building clean, maintainable, and scalable software while creating fast,
 | Company | Role |
 |----------|------|
 | **Riseup Labs** | Senior Full-Stack Developer |
-| **Blubird Interactive** | Full-Stack Developer |
+| **Blubird Interactive** | Senior Full-Stack Developer |
 | **Workspace InfoTech** | WordPress & Laravel Developer |
 | **Ifinger Studio** | Full-Stack Developer |
 | **Subra Systems** | Frontend & Laravel Developer |
