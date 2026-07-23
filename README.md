@@ -24,14 +24,18 @@ I build scalable web applications, enterprise WordPress solutions, modern React/
   <a href="mailto:career.motaleb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://themeforest.net/user/thememoons" target="_blank">
+    <img src="https://img.shields.io/badge/ThemeForest-81B441?style=for-the-badge&logo=envato&logoColor=white" alt="ThemeForest"/>
+  </a>
 </p>
 
 <p align="center">
-🌐 <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a> &nbsp;|&nbsp;
-💼 <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a> &nbsp;|&nbsp;
-🐙 <a href="https://github.com/motaleb-git">github.com/motaleb-git</a> &nbsp;|&nbsp;
-🧩 <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a> &nbsp;|&nbsp;
-✉️ <a href="mailto:career.motaleb@gmail.com">career.motaleb@gmail.com</a>
+🌐 <strong>Portfolio:</strong> <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a><br>
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a><br>
+🐙 <strong>GitHub:</strong> <a href="https://github.com/motaleb-git">github.com/motaleb-git</a><br>
+🧩 <strong>WordPress.org:</strong> <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a><br>
+🎨 <strong>ThemeForest:</strong> <a href="https://themeforest.net/user/thememoons">themeforest.net/user/thememoons</a><br>
+✉️ <strong>Email:</strong> <a href="mailto:career.motaleb@gmail.com">career.motaleb@gmail.com</a>
 </p>
 
 ---
@@ -177,14 +181,18 @@ I enjoy building clean, maintainable, and scalable software while creating fast,
   <a href="mailto:career.motaleb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://themeforest.net/user/thememoons" target="_blank">
+    <img src="https://img.shields.io/badge/ThemeForest-81B441?style=for-the-badge&logo=envato&logoColor=white" alt="ThemeForest"/>
+  </a>
 </p>
 
 <p align="center">
-🌐 <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a> &nbsp;|&nbsp;
-💼 <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a> &nbsp;|&nbsp;
-🐙 <a href="https://github.com/motaleb-git">github.com/motaleb-git</a> &nbsp;|&nbsp;
-🧩 <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a> &nbsp;|&nbsp;
-✉️ <a href="mailto:career.motaleb@gmail.com">career.motaleb@gmail.com</a>
+🌐 <strong>Portfolio:</strong> <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a><br>
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a><br>
+🐙 <strong>GitHub:</strong> <a href="https://github.com/motaleb-git">github.com/motaleb-git</a><br>
+🧩 <strong>WordPress.org:</strong> <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a><br>
+🎨 <strong>ThemeForest:</strong> <a href="https://themeforest.net/user/thememoons">themeforest.net/user/thememoons</a><br>
+✉️ <strong>Email:</strong> <a href="mailto:career.motaleb@gmail.com">career.motaleb@gmail.com</a>
 </p>
 
 ---
