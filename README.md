@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Motaleb Hossain</h1>
+<h1 align="center">Hi 👋, I'm Md. Motaleb Hossain</h1>
 
 <h3 align="center">
 Senior Full-Stack Developer • React • Next.js • Node.js • TypeScript • Laravel • WordPress
@@ -24,6 +24,14 @@ I build scalable web applications, enterprise WordPress solutions, modern React/
   <a href="mailto:career.motaleb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+🌐 <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a> &nbsp;|&nbsp;
+💼 <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a> &nbsp;|&nbsp;
+🐙 <a href="https://github.com/motaleb-git">github.com/motaleb-git</a> &nbsp;|&nbsp;
+🧩 <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a> &nbsp;|&nbsp;
+✉️ <a href="mailto:career.motaleb@gmail.com">career.motaleb@gmail.com</a>
 </p>
 
 ---
@@ -91,7 +99,7 @@ I enjoy building clean, maintainable, and scalable software while creating fast,
 | Company | Role |
 |----------|------|
 | **Riseup Labs** | Senior Full-Stack Developer |
-| **Blubird Interactive** | Senior Full-Stack Developer |
+| **Blubird Interactive** | Full-Stack Developer |
 | **Workspace InfoTech** | WordPress & Laravel Developer |
 | **Ifinger Studio** | Full-Stack Developer |
 | **Subra Systems** | Frontend & Laravel Developer |
@@ -121,7 +129,7 @@ I enjoy building clean, maintainable, and scalable software while creating fast,
 
 ---
 
-### 🔌 WordPress Theme and Plugins 
+### 🔌 WordPress Plugins
 
 - Published WordPress.org Plugin Author
 - Premium commercial plugins
@@ -169,6 +177,14 @@ I enjoy building clean, maintainable, and scalable software while creating fast,
   <a href="mailto:career.motaleb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+🌐 <a href="https://motaleb-orcin.vercel.app/">motaleb-orcin.vercel.app</a> &nbsp;|&nbsp;
+💼 <a href="https://www.linkedin.com/in/motalebhossain/">linkedin.com/in/motalebhossain</a> &nbsp;|&nbsp;
+🐙 <a href="https://github.com/motaleb-git">github.com/motaleb-git</a> &nbsp;|&nbsp;
+🧩 <a href="https://profiles.wordpress.org/motaleb/">profiles.wordpress.org/motaleb</a> &nbsp;|&nbsp;
+✉️ <a href="mailto:career.motaleb@gmail.com">career.motaleb@gmail.com</a>
 </p>
 
 ---
