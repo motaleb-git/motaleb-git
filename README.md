@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Motaleb Hossain</h1>
 
 <h3 align="center">
-Senior Full-Stack Developer • React • Next.js • Node.js • TypeScript • Laravel • WordPress
+Senior Full-Stack Developer • React • Next.js • TypeScript • Node.js • NestJS • Laravel • WordPress
 </h3>
 
 <p align="center">
-I build scalable web applications, enterprise WordPress solutions, modern React/Next.js frontends, and high-performance backend APIs with Node.js and Laravel.
+I build scalable web applications, enterprise WordPress solutions, modern React/Next.js frontends, and high-performance backend APIs with Node.js/ NestJS and Laravel.
 </p>
 
 <p align="center">
@@ -21,14 +21,13 @@ I build scalable web applications, enterprise WordPress solutions, modern React/
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Full-Stack Developer** with **9 years of professional experience** building scalable web applications and digital products. My expertise spans **React**, **Next.js**, **Node.js**, **Laravel**, **TypeScript**, **PHP**, and **WordPress**, with hands-on experience delivering enterprise applications, SaaS platforms, ERP systems, e-commerce solutions, REST APIs, and premium WordPress products.
+I'm a **Senior Full-Stack Developer** with **9 years of professional experience** building scalable web applications and digital products. My expertise spans **React**, **Next.js**, **TypeScript**, **Node.js**, **Laravel**, **PHP**, and **WordPress**, with hands-on experience delivering enterprise applications, SaaS platforms, ERP systems, e-commerce solutions, REST APIs, and premium WordPress products.
 
 I enjoy building clean, maintainable, and scalable software while creating fast, accessible, and user-focused experiences.
 
 ---
 
 ## 🚀 Tech Stack
-
 **Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
