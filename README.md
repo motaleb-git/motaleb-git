@@ -155,7 +155,7 @@ I enjoy solving complex engineering problems, designing maintainable architectur
 
 ---
 
-### ⚙️ Node.js & NestJS Backend Platform
+### ⚙️ Node.js, NestJS & Express.js Backend Platform
 
 * Modular NestJS architecture
 * RESTful API development
@@ -264,5 +264,5 @@ I enjoy solving complex engineering problems, designing maintainable architectur
 
 <p align="center">
   💼 <strong>Open to Remote & On-site Opportunities</strong><br>
-  Senior Full-Stack Engineer & Software Architect • Node.js • NestJS • Express.js • PHP • Laravel • React • Next.js • Microservices • AI Automation
+  Senior Full-Stack Engineer & Software Architect • Node.js • NestJS • Express.js • PHP • Laravel • React • Next.js • Microservices • WordPress • AI Automation 
 </p>
