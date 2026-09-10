@@ -133,7 +133,7 @@ I enjoy solving complex engineering problems, designing maintainable architectur
 | ----------------------- | ----------------------------- |
 | **Riseup Labs**         | Senior Full-Stack Developer   |
 | **Blubird Interactive** | Full-Stack Developer          |
-| **Workspace InfoTech**  | WordPress & Laravel Developer |
+| **Workspace InfoTech**  | Full-Stack Developer |
 | **Ifinger Studio**      | Full-Stack Developer          |
 | **Subra Systems**       | Frontend & Laravel Developer  |
 
