@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Motaleb Hossain</h1>
 
 <h3 align="center">
-Senior Full-Stack Developer • React • Next.js • TypeScript • Node.js • NestJS • Laravel • WordPress
+Senior Full-Stack Developer • React • Next.js • TypeScript • Node.js • Express.js • NestJS •  PHP • Laravel • WordPress
 </h3>
 
 <p align="center">
-I build scalable web applications, enterprise WordPress solutions, modern React/Next.js frontends, and high-performance backend APIs with Node.js/ NestJS and Laravel.
+I architect and build scalable, production-grade web applications and enterprise systems with a strong focus on Node.js, NestJS, Express.js, PHP, and Laravel. I design microservices, high-performance REST APIs, scalable backend architectures, database systems, and secure integrations, while building modern React and Next.js frontends. Experienced in SaaS, ERP, POS, e-commerce, WordPress, and WooCommerce.
 </p>
 
 <p align="center">
